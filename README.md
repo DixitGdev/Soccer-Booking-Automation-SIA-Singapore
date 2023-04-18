@@ -1,6 +1,6 @@
 # Soccer Ground Booking Automation (for NGO)
 
-## Author : Dixit Ghodadara - [Github]()
+## Author : Dixit Ghodadara - [Github](https://github.com/DixitGdev)
 
 ### Demo --> [YouTube video](https://www.youtube.com/watch?v=Y22IxbuFbz8&ab_channel=DixitGhodadara)
 
