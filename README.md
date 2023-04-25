@@ -8,7 +8,7 @@
 ### **Features**
 * ### Automated login in the app 
 * ### Provide date and time, It will book automatically with payment processing
-* ### 90% faster then human processing time :)
+* ### 90% faster than human processing time :)
 * ### Made for NGO who train students for free in Singapore
 
 #
